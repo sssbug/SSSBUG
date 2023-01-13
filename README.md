@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oktay Haligur</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 👨‍🎓 I am a graduate of **computer programming.**
 
