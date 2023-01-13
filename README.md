@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oktay Haligur</h1>
 
-- 👨‍🎓 I am a graduate of **computer programming.**
+- 👨‍🎓 I am a associate degree of **computer programming.**
 
 - 👩‍💻 I want to work as a **software developer.**
 
